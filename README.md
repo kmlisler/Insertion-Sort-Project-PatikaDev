@@ -1,5 +1,6 @@
 # Insertion-Sort-Project-PatikaDev
-Insertion Sort Project given by patika.dev in Data Structures and Algorithms section
+Insertion Sort Project given by patika.dev in Data Structures and Algorithms section  www.patika.dev
+Project : https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
 
 [22,27,16,2,18,6] dizisinin insertion sort türüne göre aşamaları:
 
